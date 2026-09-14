@@ -30,17 +30,10 @@ The user provides a Sudoku grid as input, where `0` represents an empty cell. Th
 
 ## 🚀 How to Run
 
-### Option 1 — Run the Executable
+Run the Executable
 
 Download the executable file:
 
 ```text
 Task3_Sudoku_Solver.exe
-### Option 2 — Run from Source Code
 
-If you have the source code, you can compile and run the program using a C++ compiler.
-
-#### 1. Clone the Repository
-
-```bash
-(https://github.com/Muhammad-Bilal63/sudoku_solver/)
